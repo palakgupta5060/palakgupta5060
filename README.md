@@ -54,11 +54,15 @@
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=palakgupta5060&theme=tokyonight&hide_border=true"/>
 </p>
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=palakgupta5060&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=palakgupta5060&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
+
+---
 
 ---
 
