@@ -47,27 +47,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=palakgupta5060&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgupta5060&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=palakgupta5060&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgupta5060&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=palakgupta5060&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=palakgupta5060&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palakgupta5060&theme=algolia&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=palakgupta5060&theme=algolia&no-frame=true&margin-w=10" />
 </p>
-
----
-
----
-
-
----
 
 ## 🌱 Currently Exploring
 
