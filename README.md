@@ -47,19 +47,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palakgupta5060&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgupta5060&layout=compact&theme=tokyonight"/>
-
-</p>
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=palakgupta5060&theme=tokyonight"/>
+![](https://github-profile-trophy.vercel.app/?username=palakgupta5060&theme=tokyonight&no-frame=true&margin-w=15)
 
 </p>
+## 📈 Contribution Graph
+
+[![Palak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palakgupta5060&theme=tokyo-night)](https://github.com/palakgupta5060)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=palakgupta5060&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ---
 
