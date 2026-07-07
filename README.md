@@ -1,4 +1,9 @@
-# Hi there 👋 I'm Palak Gupta
+<h1 align="center">Hi 👋, I'm Palak Gupta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Generative+AI+%7C+LLMs+%7C+Deep+Learning;Building+AI+Projects+with+Python;Always+Learning+Something+New!" />
+</p>
+
 
 🎓 **B.Tech | Electronics & Computer Engineering**
 
